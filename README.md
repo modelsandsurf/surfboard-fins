@@ -1,2 +1,0 @@
-# surfboard-fins
-Surfboard fins
